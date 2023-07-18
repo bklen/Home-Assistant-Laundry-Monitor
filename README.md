@@ -60,9 +60,15 @@ Author: bklen
      * [Budget option - IWS-2820M](https://a.co/d/70fK3cf)
   * [Wire Stripper - Hakko CHP CSP-30-1](https://a.co/d/fWNSyn9)
   * [Heat Gun](https://a.co/d/gOvbMbD)
-  * [solder Iron - Weller Wlc100 40-Watt](https://a.co/d/hBPxWCo)
-  * [Solder](https://a.co/d/4rGcueA)
-  * [Flux](https://a.co/d/bSmeFmQ)
+  * [solder Iron - PINECIL](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
+     * Recommended:
+        * [Soldering Short Tip Set (Fine)](https://pine64.com/product/pinecil-soldering-short-tip-set-fine/)
+        * [T12‑BC3 Soldering Tip](https://a.co/d/h2QJXb6)
+        * [SILICONE POWER CHARGING CABLE](https://pine64.com/product/usb-type-c-to-usb-type-c-silicone-power-charging-cable-1-5-meter-length/)
+        * [65W GaN USB-C Wall Charger with Power Delivery PD](https://www.amazon.com/gp/product/B087MFLLCR/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+     * [Reliable alternative: - Weller Wlc100 40-Watt](https://a.co/d/bisxCsw)
+  * [Solder](https://a.co/d/h9MQqTI)
+  * [Flux](https://a.co/d/9jHg3QS)
   * [BreadBoard](https://a.co/d/3P9cGXa)
   * [Jumper Wires](https://a.co/d/16FHj63)
 
